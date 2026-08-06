@@ -1,0 +1,45 @@
+name: daily-scrape
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 03:30 UTC = 09:00 IST (Actions cron can lag by minutes at busy times)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Scrape Play chart + watchlist and AppBrain ranks
+        id: scrape
+        # exit 2 = degraded (one source failed) — still commit what succeeded.
+        # exit 3 = Play sweep unhealthy — still commit, the routine will alert on missing/partial data.
+        run: |
+          set +e
+          node scripts/daily-installs.mjs
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          if [ "$code" -ne 0 ] && [ "$code" -ne 2 ] && [ "$code" -ne 3 ]; then exit "$code"; fi
+      - name: Commit data
+        run: |
+          git config user.name "install-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data logs
+          git diff --cached --quiet && echo "nothing to commit" && exit 0
+          git commit -m "daily scrape $(TZ=Asia/Kolkata date +%F) (exit ${{ steps.scrape.outputs.exit_code }})"
+          git push
+      - name: Fail the run if the scrape was degraded (visible in Actions history)
+        if: steps.scrape.outputs.exit_code != '0'
+        run: exit 1

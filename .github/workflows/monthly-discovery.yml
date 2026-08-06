@@ -1,0 +1,34 @@
+name: monthly-discovery
+on:
+  schedule:
+    - cron: "40 4 1 * *"   # 04:40 UTC on the 1st = 10:10 IST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Broad discovery sweep (~900 apps)
+        run: node scripts/discovery-sweep.mjs
+      - name: Commit report
+        run: |
+          git config user.name "install-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data logs
+          git diff --cached --quiet && echo "nothing to commit" && exit 0
+          git commit -m "discovery sweep $(TZ=Asia/Kolkata date +%F)"
+          git push

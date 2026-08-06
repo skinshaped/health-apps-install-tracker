@@ -1,0 +1,11 @@
+{
+  "name": "competitive-marketing-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Daily competitor-install scraper: AppBrain top-100 (rank, rounded installs) + Google Play exact maxInstalls for union(top-100, watchlist). Outputs dated CSV/NDJSON under data/daily/.",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "google-play-scraper": "^10.1.3",
+    "js-yaml": "^4.1.0"
+  }
+}
