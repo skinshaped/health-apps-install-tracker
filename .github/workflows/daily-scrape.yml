@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "30 3 * * *"   # 03:30 UTC = 09:00 IST (Actions cron can lag by minutes at busy times)
   workflow_dispatch: {}
+  push:            # TEMP: CI smoke test, remove after first green run
+    branches: [main]
+    paths: [".github/workflows/daily-scrape.yml"]
 
 permissions:
   contents: write
