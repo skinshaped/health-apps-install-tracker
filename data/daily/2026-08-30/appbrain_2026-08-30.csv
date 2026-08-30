@@ -1,0 +1,100 @@
+snapshot_date,rank,rank_change,package,app_name,rating,lifetime_installs_rounded,recent_30d_installs_rounded,scraped_at,run_id
+2026-08-30,1,0,com.noisefit,NoiseFit: Health & Fitness,4.5,56000000,750000,2026-08-30T07:24:55.328Z,2026-08-30_1788074693
+2026-08-30,2,0,com.traya.prod,Traya: Hair Loss Solutions,4.5,16000000,710000,2026-08-30T07:24:55.329Z,2026-08-30_1788074693
+2026-08-30,3,2,com.coveiot.android.boat,boAt Crest,4,19000000,410000,2026-08-30T07:24:55.329Z,2026-08-30_1788074693
+2026-08-30,4,-1,in.sweatco.app,Sweatcoin・Walking Step Counter,4.4,160000000,1900000,2026-08-30T07:24:55.330Z,2026-08-30_1788074693
+2026-08-30,5,3,com.titan.fastrack.reflex,Fastrack Smart World,3.8,15000000,340000,2026-08-30T07:24:55.331Z,2026-08-30_1788074693
+2026-08-30,6,-2,com.google.android.apps.fitness,Google Fit: Activity Tracking,3.4,360000000,4000000,2026-08-30T07:24:55.331Z,2026-08-30_1788074693
+2026-08-30,7,0,com.strava,"Strava: Run, Bike, Walk",4.6,130000000,2800000,2026-08-30T07:24:55.331Z,2026-08-30_1788074693
+2026-08-30,8,-2,care.disha,Disha: AI Health Coach,3.7,6000000,710000,2026-08-30T07:24:55.332Z,2026-08-30_1788074693
+2026-08-30,9,1,nic.goi.aarogyasetu,AarogyaSetu 2.0,3.3,190000000,330000,2026-08-30T07:24:55.332Z,2026-08-30_1788074693
+2026-08-30,10,-1,stepcounter.pedometer.stepstracker,Step Counter - Pedometer,4.8,71000000,1400000,2026-08-30T07:24:55.332Z,2026-08-30_1788074693
+2026-08-30,11,0,com.bp.blood.sugar.bloodtracker.app,Blood Sugar Care - BP Monitor,2.6,2200000,990000,2026-08-30T07:24:55.332Z,2026-08-30_1788074693
+2026-08-30,12,2,com.mosaicwellness.ourlittlejoys,Little Joys: Kids' Health App,,2000000,220000,2026-08-30T07:24:55.333Z,2026-08-30_1788074693
+2026-08-30,13,0,icici.lombard.ghi,IL TakeCare Insurance App,3.6,19000000,250000,2026-08-30T07:24:55.333Z,2026-08-30_1788074693
+2026-08-30,14,5,com.boAt.wristgear,boAt Wearables,3.2,16000000,210000,2026-08-30T07:24:55.333Z,2026-08-30_1788074693
+2026-08-30,15,-3,com.seekhoai.android,Seekho Health: Weight Loss App,,1200000,270000,2026-08-30T07:24:55.333Z,2026-08-30_1788074693
+2026-08-30,16,-1,com.health.care.sleep.sound.pulse.heartbeat,Health Care - Sound,4.5,1900000,320000,2026-08-30T07:24:55.334Z,2026-08-30_1788074693
+2026-08-30,17,1,com.wegrow.we_grow,SuperLiving: Weight Loss Coach,,2000000,210000,2026-08-30T07:24:55.334Z,2026-08-30_1788074693
+2026-08-30,18,-1,com.asianmobile.gymworkout,Gym Workout Tracker & Fitness,4.1,9100000,180000,2026-08-30T07:24:55.334Z,2026-08-30_1788074693
+2026-08-30,19,-3,homeworkout.homeworkouts.noequipment,Home Workout - No Equipment,4.9,300000000,1600000,2026-08-30T07:24:55.335Z,2026-08-30_1788074693
+2026-08-30,21,2,com.google.android.apps.healthdata,Health Connect,2.7,930000000,14000000,2026-08-30T07:24:55.335Z,2026-08-30_1788074693
+2026-08-30,22,-1,weightloss.weightlossforwomen.workoutforwomen.womenworkout,Weight Loss for Women: Workout,4.8,49000000,1400000,2026-08-30T07:24:55.336Z,2026-08-30_1788074693
+2026-08-30,23,1,com.maxbupa.healthapp,Niva Bupa Health,4.6,14000000,190000,2026-08-30T07:24:55.336Z,2026-08-30_1788074693
+2026-08-30,24,1,com.clue.android,Clue: Period & Cycle Tracker,4.5,70000000,490000,2026-08-30T07:24:55.336Z,2026-08-30_1788074693
+2026-08-30,25,-5,com.religare.healthinsurance,Care Health - Customer App,3.8,9500000,180000,2026-08-30T07:24:55.336Z,2026-08-30_1788074693
+2026-08-30,26,3,com.wyh.happyyou,HappyYou by Kotak Life,,980000,61000,2026-08-30T07:24:55.336Z,2026-08-30_1788074693
+2026-08-30,27,0,com.mosaicwellness.manmatters,"Man Matters: Hair, Beard, Skin",4.6,6300000,140000,2026-08-30T07:24:55.337Z,2026-08-30_1788074693
+2026-08-30,28,-2,bloodsugar.bloodsugarapp.diabetes.diabetesapp,Blood Sugar - Diabetes App,4.5,24000000,690000,2026-08-30T07:24:55.337Z,2026-08-30_1788074693
+2026-08-30,29,-1,com.iw.walk.step.aos,WalkStep:Tracker & Reward,4.5,2500000,240000,2026-08-30T07:24:55.337Z,2026-08-30_1788074693
+2026-08-30,30,3,com.muscleblaze,MuscleBlaze,,4300000,120000,2026-08-30T07:24:55.337Z,2026-08-30_1788074693
+2026-08-30,31,0,pedometer.stepcounter.calorieburner.pedometerforwalking,Pedometer - Step Counter,4.8,64000000,260000,2026-08-30T07:24:55.337Z,2026-08-30_1788074693
+2026-08-30,32,-2,in.guardiannewapp,GNC India,3.5,2200000,83000,2026-08-30T07:24:55.345Z,2026-08-30_1788074693
+2026-08-30,33,2,stepcounter.steptracker.pedometer.calorie,Pedometer App - Step Counter,4.7,9300000,680000,2026-08-30T07:24:55.346Z,2026-08-30_1788074693
+2026-08-30,34,0,fit.cure.android,cult.fit Gym Workout & Fitness,4.5,17000000,130000,2026-08-30T07:24:55.346Z,2026-08-30_1788074693
+2026-08-30,35,-3,esiapp.aaa,ESIC Health Connect,,2600000,100000,2026-08-30T07:24:55.346Z,2026-08-30_1788074693
+2026-08-30,36,19,com.xiaomi.wearable,Mi Fitness (Xiaomi Wear),4.4,81000000,1400000,2026-08-30T07:24:55.346Z,2026-08-30_1788074693
+2026-08-30,37,3,org.iggymedia.periodtracker,Flo Ovulation & Period Tracker,4.7,200000000,1900000,2026-08-30T07:24:55.346Z,2026-08-30_1788074693
+2026-08-30,38,3,com.sec.android.app.shealth,Samsung Health,3.2,2300000000,8700000,2026-08-30T07:24:55.347Z,2026-08-30_1788074693
+2026-08-30,39,0,bp.bloodapp.surga.bloodtracker.app,Blood Sugar Care: BP Monitor,3.3,25000000,420000,2026-08-30T07:24:55.347Z,2026-08-30_1788074693
+2026-08-30,40,14,com.mhl,Metropolis Healthcare,,380000,53000,2026-08-30T07:24:55.347Z,2026-08-30_1788074693
+2026-08-30,41,1,com.tayu.tau.pedometer,Pedometer - Step Counter,4.8,89000000,610000,2026-08-30T07:24:55.347Z,2026-08-30_1788074693
+2026-08-30,42,-6,daily.planner.routine.habits,Me+ Lifestyle Routine,4.7,24000000,230000,2026-08-30T07:24:55.347Z,2026-08-30_1788074693
+2026-08-30,43,9,com.healthkart.healthkart,HealthKart: Fitness for All,4.2,8700000,95000,2026-08-30T07:24:55.348Z,2026-08-30_1788074693
+2026-08-30,44,20,com.czw.freefit,Fere Fit,3.4,7300000,240000,2026-08-30T07:24:55.348Z,2026-08-30_1788074693
+2026-08-30,45,-7,sixpack.sixpackabs.absworkout,Six Pack in 30 Days,4.9,210000000,680000,2026-08-30T07:24:55.348Z,2026-08-30_1788074693
+2026-08-30,46,7,com.plixlifereactnative,Plixlife,,3100000,95000,2026-08-30T07:24:55.349Z,2026-08-30_1788074693
+2026-08-30,47,0,com.adityabirlahealth.insurance,Activ Health,4,3700000,86000,2026-08-30T07:24:55.349Z,2026-08-30_1788074693
+2026-08-30,48,8,com.milologic.mole_tracker,Family Mole tracker,,60000,60000,2026-08-30T07:24:55.349Z,2026-08-30_1788074693
+2026-08-30,49,1,com.nutrabay,Nutrabay: Supplements Store,5,3200000,65000,2026-08-30T07:24:55.349Z,2026-08-30_1788074693
+2026-08-30,50,-2,com.fitbit.FitbitMobile,Google Health (Fitbit),3.6,290000000,10000000,2026-08-30T07:24:55.350Z,2026-08-30_1788074693
+2026-08-30,51,-8,jawline.exercises.slim.face.yoga,Jawline Exercises - Face Yoga,4.8,27000000,290000,2026-08-30T07:24:55.350Z,2026-08-30_1788074693
+2026-08-30,52,-7,homeworkoutapp.homeworkout.fitness.workout.loseweight,Home Workout App: Fitness,4.8,9600000,350000,2026-08-30T07:24:55.350Z,2026-08-30_1788074693
+2026-08-30,53,4,in.mediassist.malite,MAven - Borderless Benefits,,1900000,72000,2026-08-30T07:24:55.350Z,2026-08-30_1788074693
+2026-08-30,54,-3,ai.fractal.vaidya,Vaidya AI,,130000,40000,2026-08-30T07:24:55.350Z,2026-08-30_1788074693
+2026-08-30,55,5,omegacentauri.mobi.simplestopwatch,Giant Stopwatch,4.1,7300000,110000,2026-08-30T07:24:55.351Z,2026-08-30_1788074693
+2026-08-30,56,-7,com.cardiolens.pulse.camera,CardioLens - Heart Rate,4.4,1100000,310000,2026-08-30T07:24:55.351Z,2026-08-30_1788074693
+2026-08-30,57,-20,life.growly.herfit,Workout at Home App: Fitness,4.3,500000,400000,2026-08-30T07:24:55.351Z,2026-08-30_1788074693
+2026-08-30,58,0,increaseheightworkout.heightincreaseexercise.tallerexercise,Height Increase Workout,4.9,99000000,550000,2026-08-30T07:24:55.351Z,2026-08-30_1788074693
+2026-08-30,59,-13,org.who.whoeyes,WHOeyes,3.3,150000,11000,2026-08-30T07:24:55.351Z,2026-08-30_1788074693
+2026-08-30,60,30,com.techmash.playo,Playo: Sports Community App,4.6,3300000,75000,2026-08-30T07:24:55.352Z,2026-08-30_1788074693
+2026-08-30,61,11,com.cdac.tamilnadu,eNalam,,370000,40000,2026-08-30T07:24:55.352Z,2026-08-30_1788074693
+2026-08-30,62,11,com.squats.fittr,"FITTR: Fitness, Diet & Workout",4.3,3800000,56000,2026-08-30T07:24:55.352Z,2026-08-30_1788074693
+2026-08-30,63,39,com.bodbot.trainer,BodBot AI Workout Planner,4.6,12000000,99000,2026-08-30T07:24:55.352Z,2026-08-30_1788074693
+2026-08-30,64,5,com.india.fitpass,FITPASS - Fitness & Wellness,4.2,4700000,56000,2026-08-30T07:24:55.352Z,2026-08-30_1788074693
+2026-08-30,65,31,com.legend.simsonlab.app.android,ZTFit,3.8,5900000,150000,2026-08-30T07:24:55.353Z,2026-08-30_1788074693
+2026-08-30,66,12,in.mohalla.fitai,AskkFit- Weight Loss & Fitness,,76000,46000,2026-08-30T07:24:55.353Z,2026-08-30_1788074693
+2026-08-30,67,0,breathefree.lung.health.asthma.breathing,Breathefree: Lung Health App,,2300000,57000,2026-08-30T07:24:55.353Z,2026-08-30_1788074693
+2026-08-30,68,2,com.stepsappgmbh.stepsapp,StepsApp – Step Counter,4.7,17000000,330000,2026-08-30T07:24:55.353Z,2026-08-30_1788074693
+2026-08-30,69,17,com.visionwizard.workout,Home Workout for Women: SheFit,4.3,5000000,130000,2026-08-30T07:24:55.353Z,2026-08-30_1788074693
+2026-08-30,70,25,com.beatxp.dafit,beatXP FIT (official app),3.6,4300000,50000,2026-08-30T07:24:55.354Z,2026-08-30_1788074693
+2026-08-30,71,-3,com.popularapp.periodcalendar,Period Calendar Period Tracker,4.9,220000000,1000000,2026-08-30T07:24:55.354Z,2026-08-30_1788074693
+2026-08-30,72,-10,com.dnt.yoga.yogaforbeginners,Daily Yoga For Beginners,4.8,10000000,590000,2026-08-30T07:24:55.354Z,2026-08-30_1788074693
+2026-08-30,73,-10,com.intvl.app,INTVL,4.3,1300000,75000,2026-08-30T07:24:55.354Z,2026-08-30_1788074693
+2026-08-30,74,1,com.fitness22.running,Running Distance Tracker +,4.5,10000000,75000,2026-08-30T07:24:55.355Z,2026-08-30_1788074693
+2026-08-30,75,-1,menloseweight.loseweightappformen.weightlossformen,Lose Weight App for Men,4.9,130000000,720000,2026-08-30T07:24:55.355Z,2026-08-30_1788074693
+2026-08-30,76,-32,com.sleep.tracker.health.monitor.cycle,Sleep Tracker - Gentle Alarm,4.2,780000,160000,2026-08-30T07:24:55.355Z,2026-08-30_1788074693
+2026-08-30,77,-18,face.yoga.exercise.massage.skincare,"Face Yoga Exercises, Skin Care",4.7,11000000,160000,2026-08-30T07:24:55.355Z,2026-08-30_1788074693
+2026-08-30,78,15,com.divinememorygames.pedometer,Pedometer King - Step Counter,4.4,15000000,100000,2026-08-30T07:24:55.356Z,2026-08-30_1788074693
+2026-08-30,79,2,com.fitifyworkouts.bodyweight.workoutapp,"Fitify: Fitness, Home Workout",4.7,32000000,190000,2026-08-30T07:24:55.356Z,2026-08-30_1788074693
+2026-08-30,80,4,com.healthifyme.basic,Healthify: AI Diet & Fitness,4.3,43000000,77000,2026-08-30T07:24:55.356Z,2026-08-30_1788074693
+2026-08-30,81,2,com.heart.myheart.aos,MyHeart-Data for Healthier You,4.5,2100000,61000,2026-08-30T07:24:55.357Z,2026-08-30_1788074693
+2026-08-30,82,23,com.jio_vio.aravind.aravind_eye_care,Dhrishti,,680000,41000,2026-08-30T07:24:55.357Z,2026-08-30_1788074693
+2026-08-30,83,-12,com.sudo.den.stepcounter,Step Tracker - Count My Steps,4.7,3500000,130000,2026-08-30T07:24:55.358Z,2026-08-30_1788074693
+2026-08-30,84,-8,com.blood.sugar.diary.monitor,Blood Sugar & Diabetes Tracker,2.8,1000000,130000,2026-08-30T07:24:55.358Z,2026-08-30_1788074693
+2026-08-30,85,-8,pedometer.steptracker.calorieburner.stepcounter,Step Counter - Pedometer,4.8,120000000,760000,2026-08-30T07:24:55.358Z,2026-08-30_1788074693
+2026-08-30,86,12,heartratemonitor.heartrate.pulse.pulseapp,Heart Rate Monitor - Pulse App,4.6,29000000,420000,2026-08-30T07:24:55.358Z,2026-08-30_1788074693
+2026-08-30,87,-22,com.jk.walk.run.aos,WalkRun: Walking Tracker,4.5,1100000,160000,2026-08-30T07:24:55.359Z,2026-08-30_1788074693
+2026-08-30,88,13,com.mosaicwellness.bebodywise,Be Bodywise Women's Health App,4.9,2300000,51000,2026-08-30T07:24:55.359Z,2026-08-30_1788074693
+2026-08-30,89,3,com.jogging.walking.weightloss.pedometer.steptracker,Daily Running Tracker with GPS,4,3100000,120000,2026-08-30T07:24:55.359Z,2026-08-30_1788074693
+2026-08-30,90,-1,com.transsion.healthlife,My Health,3.9,390000000,6400000,2026-08-30T07:24:55.359Z,2026-08-30_1788074693
+2026-08-30,91,20,com.titan.smartworld,Titan Smart World,3.6,930000,30000,2026-08-30T07:24:55.359Z,2026-08-30_1788074693
+2026-08-30,92,8,bloodpressure.bloodpressureapp.bloodpressuretracker,Blood Pressure Tracker,4.5,97000000,350000,2026-08-30T07:24:55.359Z,2026-08-30_1788074693
+2026-08-30,93,-13,gymworkout.gym.gymlog.gymtrainer,Gym Workout Tracker: Gym Log,4.8,13000000,200000,2026-08-30T07:24:55.360Z,2026-08-30_1788074693
+2026-08-30,94,-15,com.myfitnesspal.android,MyFitnessPal: Calorie Counter,4.4,140000000,610000,2026-08-30T07:24:55.360Z,2026-08-30_1788074693
+2026-08-30,95,20,com.topstep.fitcloudpro,FitCloudPro,3.8,24000000,490000,2026-08-30T07:24:55.360Z,2026-08-30_1788074693
+2026-08-30,96,22,com.fitelo.android,Fitelo: Weight Loss & Diet App,4.7,1700000,37000,2026-08-30T07:24:55.360Z,2026-08-30_1788074693
+2026-08-30,97,0,com.runtastic.android,adidas Running: Run tracker,4.7,97000000,310000,2026-08-30T07:24:55.361Z,2026-08-30_1788074693
+2026-08-30,98,-7,com.thegymfiction.app,Gym Faction: Fitness Diet App,5,110000,38000,2026-08-30T07:24:55.361Z,2026-08-30_1788074693
+2026-08-30,99,-14,running.tracker.gps.map,Running App - GPS Run Tracker,4.8,31000000,230000,2026-08-30T07:24:55.362Z,2026-08-30_1788074693
+2026-08-30,100,-12,steptracker.healthandfitness.walkingtracker.pedometer,Step Tracker - Pedometer,4.8,57000000,390000,2026-08-30T07:24:55.362Z,2026-08-30_1788074693
