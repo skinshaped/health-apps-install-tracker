@@ -42,6 +42,7 @@ apps:
   - { package: reverse.health.app, cluster: ai-coach, note: "Reverse Health" }
   - { package: com.wsl.noom, cluster: ai-coach, note: "Noom" }
   - { package: com.squats.fittr, cluster: ai-coach, note: "FITTR" }
+  - { package: in.mohalla.fitai, cluster: ai-coach, note: "AskkFit (ShareChat/Mohalla)" }
   - { package: com.traya.prod, cluster: d2c-condition, note: "Traya" }
   - { package: com.heallo.skinexpert, cluster: d2c-condition, note: "CureSkin" }
   - { package: com.mosaicwellness.manmatters, cluster: d2c-condition, note: "Man Matters" }
